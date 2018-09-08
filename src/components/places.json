@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Kali Mata Mandir",
+    "type": "Temple",
+    "latitude": 30.336444,
+    "longitude": 76.393970
+  },
+  {
+    "name": "Gopal Sweets",
+    "type": "Restauraunt",
+    "latitude":30.335650,
+    "longitude":  76.385008
+  },
+  {
+    "name": "Hotel TNG ",
+    "type": "Restauraunt",
+    "latitude":30.346250,
+    "longitude": 76.378783
+  },
+  {
+    "name": "Rajiv Gandhi Law University",
+    "type": "University",
+    "latitude": 30.386502,
+    "longitude": 76.324188
+  },
+  {
+    "name": "Gurudwara Moti Bagh",
+    "type": "Temple",
+    "latitude": 30.311713,
+    "longitude": 76.395963
+  },
+  {
+    "name": "Omaxe Mall & SRS Cimemas",
+    "type": "Shopping Mall",
+    "latitude": 30.337430,
+    "longitude": 76.394347
+  },
+  {
+    "name": "Thapar Institute of Engg. & Technology",
+    "type": "University",
+    "latitude": 30.354657,
+    "longitude":  76.362565
+  },
+  {
+    "name": "Rajindra Gymkhana Maharani Club",
+    "type": "Club",
+    "latitude": 30.339530,
+    "longitude": 76.389113
+  },
+  {
+    "name": "Punjabi University",
+    "type": "Public University",
+    "latitude": 30.358953,
+    "longitude": 76.449653
+  },
+  {
+    "name": "Qila Mubarak",
+    "type": "Royal Palace",
+    "latitude": 30.324312,
+    "longitude": 76.403250
+  },
+  {
+    "name": "Gurudwara Shri Dukhniwaran Sahib",
+    "type": "Temple",
+    "latitude": 30.347045,
+    "longitude": 76.396045
+  }
+]
